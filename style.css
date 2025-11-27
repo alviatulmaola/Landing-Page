@@ -1,0 +1,51 @@
+/* style-sederhana.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffe6f0; /* Latar belakang pink pastel sangat lembut */
+  color: #555;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #d94faa; /* Aksen pink tua */
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.contact {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.contact a {
+  color: #d94faa;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 14px;
+  color: #999;
+}
